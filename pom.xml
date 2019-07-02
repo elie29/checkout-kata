@@ -17,7 +17,7 @@
    <packaging>jar</packaging>
 
    <name>checkout</name>
-   <url>http://www.example.com</url>
+   <url>https://github.com/elie29/checkout-kata</url>
    <description>Best practices of OO and Object Calisthenics with a checkout calculation API</description>
 
    <properties>
